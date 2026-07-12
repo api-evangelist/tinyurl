@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://tinyurl.com/app/dev
 common:
+  - type: DomainSecurity
+    url: security/tinyurl-domain-security.yml
   - type: Website
     url: https://tinyurl.com/app/dev
   - type: PublicAPIsListing
