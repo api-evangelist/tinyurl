@@ -39,7 +39,6 @@ apis:
   - name: TinyURL
     description: "Shorten long URLs"
     humanURL: https://tinyurl.com/app/dev
-    baseURL: https://tinyurl.com/app/dev
     tags:
       - URL Shorteners
     properties:
